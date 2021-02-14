@@ -1,2 +1,2 @@
 # git-practice
-main ブランチからの変更
+conflict ブランチからの変更

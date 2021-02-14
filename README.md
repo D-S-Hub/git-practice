@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 変更しました
 
-new-feature branchで修正
+no-fast-forwardで修正

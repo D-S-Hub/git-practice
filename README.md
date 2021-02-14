@@ -6,3 +6,5 @@ new-fetureブランチで変更
 
 
 no-fast-fowardで変更
+
+confict発生！！！

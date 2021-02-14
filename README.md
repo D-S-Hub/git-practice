@@ -5,4 +5,6 @@
 new-fetureブランチで変更
 
 
-no-fast-fowardで変更
+mainでコンフリクト発生
+
+conflict

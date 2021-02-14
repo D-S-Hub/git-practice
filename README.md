@@ -1,2 +1,2 @@
 # git-practice
-no-faseforward で　変更
+main ブランチからの変更

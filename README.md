@@ -1,3 +1,2 @@
 # git-practice
-conflict ブランチからの変更
-github上で更新
+Githubから直接変更しました.

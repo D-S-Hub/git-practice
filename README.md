@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 conflict-branchで変更！！
 Git-hub上で更新！！！
-もう一回Git-hubで更新！！！！
+Conflict-remoteで更新！！

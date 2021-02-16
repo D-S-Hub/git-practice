@@ -3,3 +3,4 @@
 ローカルレポで変更  
 mainブランチ
 conflict
+Github上で更新

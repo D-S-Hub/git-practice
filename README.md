@@ -4,4 +4,4 @@
 mainブランチ  
 conflict  
 Github上で更新  
-あいうえお
+あいうえお  

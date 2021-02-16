@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカル
+ローカル  
+new-featureブランチで変更

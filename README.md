@@ -4,3 +4,4 @@
 mainブランチ
 conflict
 Github上で更新
+conflict リモート

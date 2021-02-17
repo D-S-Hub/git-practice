@@ -3,3 +3,4 @@
 ローカルで変更
 new-feature bracnh 
 no-fast-forward
+conflict

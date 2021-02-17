@@ -5,3 +5,4 @@ new-feature bracnh
 no-fast-forward
 conflict
 update on git-hub 
+conflict-remote

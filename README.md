@@ -5,7 +5,8 @@ yaaaaaaaaaaaaa
 
 update
 
-conflictttttttttttt
+conflictttttt
+
 yaaaaaaaaaaaa2
 
 メインを変えるよ

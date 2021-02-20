@@ -3,4 +3,4 @@
 
 New feature update
 
-New featuer brach
+No fast-forward brach

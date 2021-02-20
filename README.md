@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です.
-nofastfowwardで修正
+conflictブランチで修正

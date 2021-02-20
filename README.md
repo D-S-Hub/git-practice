@@ -1,2 +1,18 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+
+このリポジトリは Git 動画講座用です．
+yaaaaaaaaaaaaa
+
+update
+
+conflictttttt
+
+yaaaaaaaaaaaa2
+
+メインを変えるよ
+
+こっちだったｗｗｗｗｗ
+
+ローカルで編集
+
+自分のリポジトリで更新

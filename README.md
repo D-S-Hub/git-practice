@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリボで変更  
-Github上で更新二回戦
+conflict-remote上で更新(コンフリクト発生)

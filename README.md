@@ -1,5 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です.
 
-conflictブランチで修正
-conflict
+conflict-remote上で更新

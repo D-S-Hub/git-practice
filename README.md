@@ -3,4 +3,4 @@
 
 New feature update
 
-No fast-forward brach
+Change at conflict brach

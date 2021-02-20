@@ -10,3 +10,5 @@ conflictttttt
 yaaaaaaaaaaaa2
 
 メインを変えるよ
+
+こっちだったｗｗｗｗｗ

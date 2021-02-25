@@ -10,3 +10,4 @@ update on rebase-practice
 update on main
 updated on git-hub
 updated on git-hub again
+stash conflict

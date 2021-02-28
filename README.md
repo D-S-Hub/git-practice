@@ -11,6 +11,5 @@ new-featureブランチで変更
 no-fast-forwardで変更
 
 
+conflict-branchで変更
 
-
-mainブランチで変更

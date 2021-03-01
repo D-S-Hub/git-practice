@@ -1,2 +1,3 @@
 # git-practice
-mainとconflictブランチでconflictを起こしてみたいと思います。
+conflictさせていくうぅぅー
+

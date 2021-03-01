@@ -1,2 +1,2 @@
 # git-practice
-マージしてみたかも
+no-fast-forwardを試してみる

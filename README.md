@@ -1,2 +1,2 @@
 # git-practice
-no-fast-forwardを試してみる
+mainとconflictブランチでconflictを起こしてみたいと思います。

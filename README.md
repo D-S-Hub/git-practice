@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-no-fast-forwardで更新
+conflist-branchで更新

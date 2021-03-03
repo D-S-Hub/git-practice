@@ -5,4 +5,4 @@ yes-fast-forword
 
 github上で更新
 
-github上で更新コンフリクト
+conflict-コンフリクト発生

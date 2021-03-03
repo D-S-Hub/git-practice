@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-conflist-branchで更新
+github上で更新

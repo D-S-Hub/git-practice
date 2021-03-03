@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 
 yes-fast-forword
->>>>>>> conflict
+
+github上で更新

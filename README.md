@@ -1,5 +1,6 @@
 # git-practice
 
-このリポジトリは Git練習用です．
+このリポジトリは Git 練習用です．
 ローカルリポで変更。
-conflict-remote上で更新(conflictの発生)
+
+conflict-remote 上で更新(conflict の発生)

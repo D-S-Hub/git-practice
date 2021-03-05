@@ -3,4 +3,4 @@
 ローカルリポで変更
 更に変更
 automagic merge
-mainブランチでCONFLICTを発生させる
+conflictブランチで修正

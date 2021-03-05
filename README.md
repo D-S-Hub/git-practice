@@ -3,3 +3,4 @@
 ローカルリポで変更
 更に変更
 automagic merge
+conflictブランチで修正

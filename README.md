@@ -7,4 +7,4 @@ update
 first foward
 conflict
 update on github
-conflict emerge
+reupdate on github

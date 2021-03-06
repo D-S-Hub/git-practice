@@ -4,3 +4,4 @@
 更に変更
 automagic merge
 conflictブランチで修正
+GitGub上で更新

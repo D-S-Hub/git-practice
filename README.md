@@ -7,4 +7,4 @@ nff2ブランチにて変更。
 conflictブランチにて変更。
 
 GIthub上で更新。
-2回目。
+こっちはconflict-remote上で更新。

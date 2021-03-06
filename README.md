@@ -3,6 +3,4 @@
 
 # githubから編集
 
-# githubから編集2
-
-# githubから編集3
+# conflict-remoteで編集

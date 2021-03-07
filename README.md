@@ -5,3 +5,4 @@
 automagic merge
 conflictブランチで修正
 GitGub上で更新
+conflictをさせるためにGitHub上で更新

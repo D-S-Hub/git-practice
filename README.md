@@ -3,4 +3,4 @@
 ローカルリポで変更
 更に変更
 
-no-fast-forwardブランチで変更
+conflictブランチで変更

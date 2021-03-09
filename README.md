@@ -5,3 +5,4 @@
 変更３
 conflictから変更
 github上で更新
+githubで更新（pull時にコンフリクト生じる）

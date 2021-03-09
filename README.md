@@ -6,3 +6,4 @@
 conflictから変更
 github上で更新
 ローカルから更新（pull時にコンフリクト）
+リモートにpull requestして別ブランチ作る

@@ -3,5 +3,5 @@
 ローカルリポで変更
 更に変更
 
-mainブランチで変更
-conflict発生
+conflictブランチで変更
+>>>>>>> conflict

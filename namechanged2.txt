@@ -1,0 +1,2 @@
+newfile作成
+fast-fowardが起こらないようにこのファイル変更

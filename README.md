@@ -3,4 +3,5 @@
 ローカルリポで変更
 new-featureブランチ
 github上で更新
+conflict上で発生
 

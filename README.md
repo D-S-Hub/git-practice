@@ -5,4 +5,5 @@
 new-feature
 no-fast-forward
 make conflict
-update readme on remote repogitory
+update readme on remote repository
+update readme on remote repository for a local conflict

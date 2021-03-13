@@ -4,3 +4,4 @@
 # Usage
 new-feature
 no-fast-forward
+make conflict

@@ -3,3 +3,4 @@
 # 今回はconflictブランチ側の変更を採用
 編集しました
 conflictブランチ上での変更
+github上での更新

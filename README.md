@@ -4,4 +4,4 @@
 # Usage
 new-feature
 no-fast-forward
-make conflict on main branch
+make conflict

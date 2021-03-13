@@ -5,3 +5,4 @@
 new-feature
 no-fast-forward
 make conflict
+update readme on remote repogitory

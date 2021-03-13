@@ -1,6 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-
+# 今回はconflictブランチ側の変更を採用
 編集しました
-mergeの練習用に編集
-no-fast-forward
+conflictブランチ上での変更

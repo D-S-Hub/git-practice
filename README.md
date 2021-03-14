@@ -3,4 +3,4 @@
 # 今回はconflictブランチ側の変更を採用
 編集しました
 conflictブランチ上での変更
-github上での更新 編集
+future上での更新->conflictが発生予定

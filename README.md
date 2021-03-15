@@ -4,3 +4,4 @@
 new-featureブランチで変更
 new-featureブランチで変更2回目
 conflictブランチで変更
+GitHub上で更新

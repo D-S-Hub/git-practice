@@ -4,4 +4,4 @@
 new-featureブランチで変更
 new-featureブランチで変更2回目
 conflictブランチで変更
-GitHub上で更新2回目
+conflict-remote上で更新（コンフリクト発生）

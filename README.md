@@ -5,3 +5,4 @@ change in new-feature branch
 =======
 change in conflict
 >>>>>>> conflict
+change in Github

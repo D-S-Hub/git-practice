@@ -1,5 +1,1 @@
-# git-practice
-このリポジトリはGit動画講座用です．
-update 1
-git hub update
-local repo change
+update 20210319 1000

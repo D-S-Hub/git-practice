@@ -5,4 +5,4 @@
 conflictブランチで変更
 conflict-remote上で更新
 rebase parctice for conflict
-stash practice
+stash practice トラック済み

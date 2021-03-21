@@ -3,4 +3,4 @@
 更新
 更新
 conflictブランチで変更
-Github上で更新
+Github上で更新編集

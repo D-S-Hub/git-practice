@@ -13,4 +13,4 @@ test
 
 merge conflict
 
-github上で更新２回目
+conflict-remote上で更新

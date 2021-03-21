@@ -12,3 +12,5 @@ aaaa
 test
 
 merge conflict
+
+github上で更新

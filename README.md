@@ -4,4 +4,4 @@
 更新
 conflictブランチで変更
 conflict-remote上で更新
-rebase parctice
+rebase parctice from main branch

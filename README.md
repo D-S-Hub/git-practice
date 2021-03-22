@@ -3,3 +3,4 @@
 ローカルリポで変更  
 rebase-practice branch updated(rebase conflict)
 rebase pull
+stash conflict

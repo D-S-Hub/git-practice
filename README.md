@@ -13,3 +13,5 @@ mainブランチで編集
 conflictブランチで編集
 
 GitHub上で編集
+
+コンフリクトを発生させる（GitHubで編集）

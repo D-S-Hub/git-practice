@@ -8,4 +8,4 @@ future上での更新->conflictが発生予定
 リモートリポでブランチを削除したから、再度pushするために再編集
 
 rebase-practice branchで編集
-main branch で更新(conflict用)
+rebase conflict用

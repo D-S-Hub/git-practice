@@ -9,3 +9,5 @@ future上での更新->conflictが発生予定
 
 rebase-practice branchで編集
 rebase conflict用
+
+pull時にrebaseを試すためにremote repo上で編集中

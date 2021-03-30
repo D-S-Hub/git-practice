@@ -3,4 +3,4 @@
 変更
 変更！！
 変更!!!!
-ccccccccccccoooooooflict!!!
+conflict!!!!

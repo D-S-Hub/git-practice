@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-github1上で更新
+github上で更新し、コンフリクト発生

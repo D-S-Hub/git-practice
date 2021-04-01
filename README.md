@@ -4,4 +4,3 @@
 変更！！
 変更!!!!
 conflict!!!!
-conflictGitHubで更新

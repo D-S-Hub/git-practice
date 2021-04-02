@@ -2,6 +2,5 @@
 このリポジトリはGit動画講座用です．
 
 localリポで変更				
-GitHub上で更新 
-更に編集
-
+<<<<<<< HEAD
+conflict-remoteで更新(conflict発生)

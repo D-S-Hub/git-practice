@@ -4,3 +4,4 @@ Changed# git-practice
 mainto
 =======
 updated on Github
+updated for conflict

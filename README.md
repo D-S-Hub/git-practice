@@ -3,4 +3,4 @@ Changed# git-practice
 <<<<<<< HEAD
 mainto
 =======
->>>>>>> conflict
+updated on Github

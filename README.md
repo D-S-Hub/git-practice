@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 
 localリポで変更				
-no-fast-forwardで変更
+mainで変更(conflict発生)

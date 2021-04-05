@@ -12,3 +12,5 @@ rebase conflict用
 
 pull時にrebaseを試すためにremote repo上で編集中
 rebase 無しでpullしてみる
+
+stashの練習

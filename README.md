@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit修行です．
-new-feature branch
+no-fast-forward branch

@@ -1,3 +1,5 @@
 # git-practice
-このリポジトリはGit修行です．
-conflict
+このリポジトリはGit修行です．\n
+conflict\n
+fetch修行
+

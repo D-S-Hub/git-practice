@@ -15,3 +15,4 @@ rebase 無しでpullしてみる
 
 stashの練習
 stashでのコンフリクトも体験
+untracked fileの動きを確認したい

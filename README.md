@@ -1,2 +1,5 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+このリポジトリはGit修行です．\n
+conflict\n
+new-featureブランチで更新
+

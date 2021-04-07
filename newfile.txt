@@ -1,3 +1,4 @@
 outmaticmerge
 
 stashの練習
+リモートリポジトリでのreverty用		

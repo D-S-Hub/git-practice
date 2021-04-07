@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit修行です．\n
 conflict\n
-ブランチで更新
+new-featureブランチで更新
 

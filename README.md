@@ -1,3 +1,3 @@
 # git-practice
-conflictさせていくうぅぅー
+ローカルリポジトリで更新しています
 

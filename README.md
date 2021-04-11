@@ -4,4 +4,4 @@
 ローカルで変更
 
 confilct
-Github上で更新2回目
+conflict上で更新

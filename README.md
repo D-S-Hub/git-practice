@@ -4,4 +4,4 @@
 new-feature branch で変更
 no-fast-forwardで変更
 conflict ブランチで変更
-github上で変更
+conflict-remote上で変更

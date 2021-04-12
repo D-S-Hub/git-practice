@@ -6,3 +6,4 @@ rebase-practiceブランチで更新(rebase用)
 mainぶらんちkousi
 rebase用
 Stashed changes
+change

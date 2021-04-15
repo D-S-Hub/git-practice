@@ -8,4 +8,4 @@
 new-featureブランチで変更←これは以前のもの
 
 2021/04/15
-no-fast-forwardブランチで変更
+conflictブランチで変更（コンフリクト発生）

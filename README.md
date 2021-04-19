@@ -3,3 +3,4 @@
 Confict 変更
 マージ
 オート
+conflict

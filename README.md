@@ -4,3 +4,4 @@ Confict 変更
 マージ
 オート
 conflict
+Githubで更新 

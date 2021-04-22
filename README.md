@@ -4,3 +4,5 @@
 ローカルリポで変更
 
 conflict で変更
+
+Github上で修正

@@ -5,4 +5,4 @@
 
 conflict で変更
 
-Github上で修正
+conflict-remote 上で修正(conflict)

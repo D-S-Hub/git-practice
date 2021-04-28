@@ -3,3 +3,4 @@
 変更
 new-feature branchで変更
 no-fast-forwardで変更
+conflict branchで変更（コンフリクト発生）

@@ -7,3 +7,4 @@ no-fast-forwardで変更
 conflict branchで変更（コンフリクト発生）
 >>>>>>> conflict
 github上で更新
+conflict-remote上で更新

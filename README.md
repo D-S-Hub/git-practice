@@ -3,5 +3,5 @@
 
 ローカルリポで変更
 
-nno-fastブランチで変更
+mainブランチで変更  HAHAHA
 

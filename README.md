@@ -3,5 +3,7 @@
 
 ローカルリポで変更
 
-mainブランチで変更  HAHAHA
+
+conflictブランチで変更
+
 

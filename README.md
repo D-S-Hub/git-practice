@@ -3,5 +3,3 @@
 ローカルリポで更新
 
 conflict-remoto 上で変更2
-
-

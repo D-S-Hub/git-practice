@@ -6,4 +6,4 @@
 
 - new feature
 
-- no fast forward and no conflict
+- automatic merge

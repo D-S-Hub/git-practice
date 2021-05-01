@@ -1,5 +1,7 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 
--test
--test
+- test
+- test
+
+- new feature

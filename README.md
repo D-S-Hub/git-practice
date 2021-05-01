@@ -5,3 +5,5 @@
 - test
 
 - new feature
+
+- no fast forward and no conflict

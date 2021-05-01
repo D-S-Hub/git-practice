@@ -8,4 +8,4 @@
 
 - automatic merge
 
-- merge conflict by main branch
+- merge conflict

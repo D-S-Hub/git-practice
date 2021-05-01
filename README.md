@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-xxx  
+xxxz  
 yyy
 zzz

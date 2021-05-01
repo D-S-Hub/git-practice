@@ -7,3 +7,5 @@
 - new feature
 
 - automatic merge
+
+- merge conflict by main branch

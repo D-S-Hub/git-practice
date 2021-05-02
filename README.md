@@ -13,3 +13,5 @@
 - update on github
 
 - update on local git
+
+- upadate at my repo

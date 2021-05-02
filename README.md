@@ -12,4 +12,4 @@
 
 - update on github
 
-- update on github
+- update on logal git

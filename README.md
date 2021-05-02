@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 Local Conflict
-rebase-practice Edit on Main
+rebase-practice Edit on Main 2
 

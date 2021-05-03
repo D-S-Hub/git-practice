@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 aaaaa
-bbbbb
+no-fast-forward bbbbb

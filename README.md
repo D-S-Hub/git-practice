@@ -3,5 +3,4 @@ Git-practice.
 local repo update.
 new-feature-branch-update.
 no-fast-forward.
-conflict.
-github-on-update.
+conflict-remote-on-update.

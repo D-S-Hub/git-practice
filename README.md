@@ -1,3 +1,4 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+Git-practice
 local repo update
+new-feature-branch-update

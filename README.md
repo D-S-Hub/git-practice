@@ -1,6 +1,3 @@
 # git-practice
 Git-practice.
-local repo update.
-new-feature-branch-update.
-no-fast-forward.
-conflict-remote-on-update.
+MyGit-update.

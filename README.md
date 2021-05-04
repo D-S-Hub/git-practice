@@ -2,5 +2,4 @@
 このリポジトリはGit動画講座用です．
 aaaaa
 conflict bbbbb
-Github上で更新
-２回目の更新
+conflict-remote上で更新(conflict発生)

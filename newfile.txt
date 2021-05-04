@@ -1,0 +1,8 @@
+デフォルトブランチ名変更
+git config --global init.defalutBranch main
+
+
+コマンド補完
+curl https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash -o ~/.git-completion.bash
+echo "source ~/.git-completion.bash" >> ~/.bashrc
+source ~/.bashrc

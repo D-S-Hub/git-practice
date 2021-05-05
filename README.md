@@ -3,3 +3,5 @@
 codeで編集
 git checkout -b no-fast-forward
 update on main branch
+update at confclict branch 
+

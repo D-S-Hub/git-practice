@@ -9,7 +9,9 @@
 # Local History for Visual Studio Code
 .history/
 
+
 ###### local file
+.gitignore
 data.json
 .ssh/*
 .aws/*

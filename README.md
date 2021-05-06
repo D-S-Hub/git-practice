@@ -4,4 +4,4 @@ Change from loacl ripo
 Chang to merge
 to commit
 commit
-git hub 上でupdate 
+conflict-remote上で更新 conflict occur

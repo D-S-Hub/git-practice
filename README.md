@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-change new-feature branch
+change no-fast-forward branch

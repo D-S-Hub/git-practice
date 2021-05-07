@@ -5,4 +5,4 @@ new-featureブランチで変更
 no-fast-forwardで変更
 conflictで変更
 github上で更新
-github上で更新2 (conflict)
+conflict-remoteで更新(conflict)

@@ -3,3 +3,4 @@
 no-fast-forwardブランチのマージをするよ
 mainだ
 conflict
+auto

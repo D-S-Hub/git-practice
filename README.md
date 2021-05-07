@@ -1,4 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-no-fast-forwardブランチのマージをするよ
-更新するよ
+2回目の更新

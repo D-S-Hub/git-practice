@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-hogehoge
+change on local repository
+change on new-feature branch

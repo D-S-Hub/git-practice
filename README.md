@@ -1,5 +1,3 @@
 # git-practice
 
-このリポジトリは Git 動画講座用です．
-<<<<<<< HEAD
-github で更新 confilct
+自分のリポ支持とりで更新

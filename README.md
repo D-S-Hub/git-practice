@@ -3,4 +3,4 @@
 ローカルリポで変更
 変更！！
 no fast forward
-mainbrancで変更
+merge conflict

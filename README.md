@@ -4,3 +4,4 @@
 変更！！アイウエオ
 no fast forward
 merge conflict
+github上で更新

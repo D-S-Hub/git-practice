@@ -5,4 +5,4 @@
 no fast forward
 merge conflict
 github上で更新
-update README.md for conflict
+conflict 発生

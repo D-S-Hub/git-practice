@@ -6,3 +6,4 @@ no fast forward
 merge conflict
 github上で更新
 conflict 発生
+pull時のrebase用

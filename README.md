@@ -3,4 +3,4 @@
 
 1. fork
 2. track & untrack
-3.
+3. feature branch で編集

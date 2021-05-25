@@ -7,3 +7,4 @@
 4. no-fast-forward で branch 変更
 5. conflict branch で conflict 発生させる
 - conflict 解消！
+6. github 上で更新

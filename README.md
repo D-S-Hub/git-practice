@@ -9,3 +9,4 @@
 - conflict 解消！
 6. github 上で更新
 7. conflict-remote 作成(conflict発生)
+8. fork 元に pull request

@@ -5,4 +5,5 @@
 2. track & untrack
 3. feature branch で編集
 4. no-fast-forward で branch 変更
-5. conflict branch で変更
+5. conflict branch で conflict 発生させる
+- conflict 解消！

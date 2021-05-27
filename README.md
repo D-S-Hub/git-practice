@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-local fpvjs
+ローカルリポで編集  
+new-featureブランチで変更

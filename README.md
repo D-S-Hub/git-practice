@@ -4,3 +4,4 @@
 
 conflictブランチで変
 github上で更新
+git hub上で更新マーク２

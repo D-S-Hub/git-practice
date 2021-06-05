@@ -3,4 +3,5 @@
 
 変更した
 
-GitHub上で更新2回目
+conflict-remote上で更新(コンフリクト発生)
+

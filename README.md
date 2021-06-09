@@ -3,3 +3,4 @@
 Change in local repo
 
 try local merge 
+no-fast-foward

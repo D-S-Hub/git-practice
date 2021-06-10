@@ -7,3 +7,4 @@ conflict
 update on github
 confliect
 編集
+自分のリポジトリで更新

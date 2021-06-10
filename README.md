@@ -3,4 +3,4 @@
 chage in local
 chage again   
 new-feature barnch
-no-fast-forward
+conflict

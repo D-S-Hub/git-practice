@@ -2,4 +2,4 @@
 
 このリポジトリは Git 動画講座用です．
 ローカルリポで変更
-Github で変更2回目
+conflict remote 上 で変更

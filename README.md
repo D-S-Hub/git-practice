@@ -1,4 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-edit in the local repo
-conflict
+edit on GitHub

@@ -3,4 +3,4 @@
 Change in local repo
 
 try local merge 
-rebase practice branch
+change readme file on main for conflict

@@ -3,4 +3,4 @@
 ローカルリポで変更
 new-featureブランチで変更
 conflictに変更
->>>>>>> conflict
+gitHub上で更新

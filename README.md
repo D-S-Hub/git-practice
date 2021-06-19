@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更
+no-fast-forwerdローカルリポで変更
 new-feature

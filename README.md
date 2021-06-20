@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit用です．
-ローカルリポで変更
+ローカルリポで変更  
+new-feature

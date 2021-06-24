@@ -4,4 +4,4 @@ ra-karuripo
 
 
 conflict
->>>>>>> conflict
+git kousinn

@@ -3,3 +3,4 @@
 ローカルリポで変更した
 new-featureブランチで変更
 no-fast-forwardブランチ作成&変更
+conflictブランチ作成&変更

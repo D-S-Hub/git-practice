@@ -1,4 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-no-fast-forwerdローカルリポで変更
-conflict用
+自分のリポジトリで更新しました。

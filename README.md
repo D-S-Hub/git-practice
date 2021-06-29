@@ -1,6 +1,3 @@
 # git-practice
-local-repo
-new-feature
-conflict
-github
-conflict-remote
+このリポジトリはGit動画講座用です。
+自分のリポジトリで更新

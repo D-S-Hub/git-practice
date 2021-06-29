@@ -2,5 +2,5 @@
 local-repo
 new-feature
 conflict
->>>>>>> conflict
+github
 

@@ -4,4 +4,4 @@
 
 自分のリポジトリで更新
 
-6/29 new-featureブランチで変更
+mainブランチ変更(conflict練習用)

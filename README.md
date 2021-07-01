@@ -5,3 +5,4 @@
 自分のリポジトリで更新
 
 conflict1練習用，conflictブランチ
+ローカルconflict-remote2で編集

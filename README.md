@@ -4,4 +4,4 @@
 
 自分のリポジトリで更新
 
-mainブランチ変更(conflict練習用)
+conflict1練習用，conflictブランチ

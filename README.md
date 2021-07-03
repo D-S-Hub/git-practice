@@ -4,5 +4,5 @@
 
 自分のリポジトリで更新
 
-conflict1練習用，conflictブランチ
-ローカルconflict-remote2で編集
+fork元へmergeする練習
+自分のローカルリポで更新

@@ -1,2 +1,2 @@
 ローカルリポで変更
-new-feature buranch de henkou
+no-fast-forward buranch de henkou

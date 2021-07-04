@@ -1,2 +1,2 @@
-# git-practice
-このリポジトリはGit動画講座用です．
+# git-puractice
+自分のリポジトリで更新

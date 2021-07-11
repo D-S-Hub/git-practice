@@ -3,3 +3,4 @@
 ローカルリポで変更
 
 new-featureブランチで変更
+nofastforwardブランチで変更

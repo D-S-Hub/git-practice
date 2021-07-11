@@ -4,3 +4,4 @@
 
 Conflictで変更
 >>>>>>> conflict
+GitHub上で更新

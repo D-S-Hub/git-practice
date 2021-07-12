@@ -2,7 +2,5 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
 
-Conflictで変更
-GitHub上で更新 2回目
-
-
+diff練習
+working Directory で更新

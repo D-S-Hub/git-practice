@@ -1,4 +1,4 @@
 # git-practice
 ローカルリポで変更  
-conflict-remote上で更新
+ローカルのnew-feature上で更新
 

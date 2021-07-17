@@ -1,2 +1,3 @@
 output.log
-*.orig
+README.md.orig
+ignore_file.txt

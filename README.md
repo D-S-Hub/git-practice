@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-pull時のrebase練習　リモートのmainで更新
+stashの練習用　mainで更新

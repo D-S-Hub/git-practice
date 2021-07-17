@@ -1,0 +1,7 @@
+# git-practice
+このリポジトリはGit動画講座用です．
+<<<<<<< Updated upstream
+stashの練習用　mainで更新 2 stashに以前の作業が入っている
+=======
+stashの練習用　mainで更新　2
+>>>>>>> Stashed changes

@@ -1,1 +1,1 @@
-rebaseの練習です rebase-practiceで更新 2
+pull時のrebase練習　ローカルのmainで更新

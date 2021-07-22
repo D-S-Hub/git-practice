@@ -4,3 +4,4 @@
 0702変更
 
 new-feature
+no-fast-forward

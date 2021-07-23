@@ -1,4 +1,3 @@
 # git-practice
-ローカルリポで変更  
-rebase-practiceでブランチを更新(rebaseconflict1用)
-
+ローカルリポで変更
+rebae用に変更

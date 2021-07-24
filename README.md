@@ -5,4 +5,4 @@
 
 new-feature
 no-fast-forward
-change in main branch(conflict occur)
+change in conflict branch

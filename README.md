@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 更新したよ。
-mainブランチで変更
+conflict branchで変更。

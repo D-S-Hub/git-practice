@@ -5,3 +5,4 @@
 
 new-feature
 no-fast-forward
+change in conflict branch

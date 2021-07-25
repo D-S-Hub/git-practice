@@ -2,3 +2,4 @@
 このリポジトリはGit動画講座用です．
 
 track/untrack検証の為、編集
+new-featureブランチのマージ練習の為、編集

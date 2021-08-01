@@ -1,4 +1,4 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+このリポジトリはGit動画講座用です...
 update on local
 

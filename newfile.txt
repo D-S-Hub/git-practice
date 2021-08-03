@@ -1,0 +1,4 @@
+new file create
+
+command + s save
+command + w write quit

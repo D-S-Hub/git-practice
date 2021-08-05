@@ -1,4 +1,5 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+このリポジトリはGit動画講座用です.
 ローカルリポで変更.
-new-feature beanchで変更
+new-feature beanchで変更.
+

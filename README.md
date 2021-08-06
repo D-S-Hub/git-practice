@@ -3,4 +3,5 @@
 ローカルリポで変更.
 conflict ブランチで変更.
 
-main branch conflict
+コンフリクト
+

@@ -3,6 +3,4 @@
 ローカルリポで変更.
 conflict ブランチで変更.
 
-Github上で更新.
-
-Github上で編集.
+conflict-remote上で更新.(コンフリクト発生)

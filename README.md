@@ -3,4 +3,5 @@
 rebase-practiceで更新.
 new-featureブランチで変更.
 mainブランチで変更.
-conflict-remote上で更新.(コンフリクト発生)
+Github上で更新.2回目
+

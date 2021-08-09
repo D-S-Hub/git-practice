@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 changed on 14:13 !
 changed by new-branch
-main branch de henkou
+conflict branch de henkou
+

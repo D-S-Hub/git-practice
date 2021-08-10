@@ -9,3 +9,5 @@ change in conflict branch
 change on github
 change on github
 change on conflict-remote
+
+add on new-feature

@@ -8,4 +8,4 @@ no-fast-forward
 change in conflict branch
 change on github
 change on github
-change on github 0809-2
+change on conflict-remote

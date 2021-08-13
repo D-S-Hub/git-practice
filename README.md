@@ -1,5 +1,2 @@
 # git-practice
-
-
-confilct branch
->>>>>>> conflict
+Github上で更新

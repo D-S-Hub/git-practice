@@ -1,2 +1,5 @@
 # git-practice
-conflict branch
+
+
+confilct branch
+>>>>>>> conflict

@@ -1,2 +1,2 @@
 # git-practice
-New-feature
+conflict branch

@@ -3,3 +3,4 @@
 ローカルリポで変更
 
 gitHubで更新
+conflict

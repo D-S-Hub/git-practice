@@ -1,4 +1,4 @@
 # git-practice
 
 ローカルリポで変更
-new-feature ブランチで変更
+no fast ブランチで変更

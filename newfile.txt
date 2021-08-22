@@ -1,1 +1,1 @@
-create newfile
+newfile作成

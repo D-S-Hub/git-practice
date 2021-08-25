@@ -5,4 +5,4 @@
 
 # new-featureで修正
 
-# mainで修正
+# conflictブランチで修正

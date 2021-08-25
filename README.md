@@ -5,4 +5,4 @@
 
 # new-featureで修正
 
-# no-fast-forwardで修正
+# conflictブランチで修正

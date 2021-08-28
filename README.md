@@ -7,5 +7,4 @@
 
 # conflictブランチで修正
 
-# github 上で修正
-update
+# conflict 上で修正（コンフリクトが発生する）

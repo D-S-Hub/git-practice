@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 henkou
-new-featurebranch
+no-fast-forwardで変更

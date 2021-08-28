@@ -8,3 +8,4 @@
 # conflictブランチで修正
 
 # github 上で修正
+update

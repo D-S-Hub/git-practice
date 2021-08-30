@@ -5,4 +5,4 @@ conflictブランチで変更
 
 リモートリポジトリで編集
 
-update内容
+conflict-remoteで編集（コンフリクト内容）

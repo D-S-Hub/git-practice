@@ -4,3 +4,4 @@ Change in local repo
 
 try local merge 
 rebase practice branch for rebase conflict
+change for stash

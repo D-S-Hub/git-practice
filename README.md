@@ -4,4 +4,4 @@ make no-fast-forward
 subl test faile 3times
 conflict test
 fetch  
-fetch -term - conflict
+fetch -term - conflict on local repo

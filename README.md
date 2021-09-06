@@ -1,3 +1,3 @@
 # git-practice
 ローカルリポで変更 　
-GitHUb上で更新
+conflict-remote上で更新

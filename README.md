@@ -5,5 +5,6 @@
 
 さらに更新します！！
 
-new-feature!
+
+no-fast-forward!
 

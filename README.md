@@ -1,3 +1,3 @@
 # git-practice
 
-mainブランチで変更(コンフリクト発生)
+conflictブランチで変更(コンフリクト発生)

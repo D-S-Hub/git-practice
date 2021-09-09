@@ -1,3 +1,3 @@
 # git-practice
 
-no-fast-forwardブランチで変更
+mainブランチで変更(コンフリクト発生)

@@ -8,4 +8,4 @@
 
 コンフリクトを起こします（mconflict ブランチで更新）
 
-github 上で更新します。
+conflict-remote 上で更新します。

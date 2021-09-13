@@ -4,3 +4,4 @@
 track/untrack検証の為、編集
 new-featureブランチのマージ練習の為、編集
 no-fast-forwardブランチによるAutomatic merge練習の為、編集
+mainブランチによるConflict merge練習の為、編集

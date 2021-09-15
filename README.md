@@ -3,4 +3,5 @@
 ローカルリポにて変更　　
 no-fast-forwardブランチで変更
 conflictブランチで変更
-Github上で更新2222
+Github上で更新
+conflict-remoteブランチで変更

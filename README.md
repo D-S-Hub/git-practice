@@ -4,4 +4,4 @@
 
 no-fast-forward で変更（もう一回）
 
-git hub上で更新
+conflict-remote上で更新

@@ -5,3 +5,4 @@
 no-fast-forward で変更（もう一回）
 
 git hub上で更新
+もう一回

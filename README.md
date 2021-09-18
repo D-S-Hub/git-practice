@@ -4,4 +4,4 @@
 new-featureブランチで変更  
 no-fast-forwardブランチで変更  
 confictブランチで変更  
-githubで更新 　
+githubで更新(2nd) 　

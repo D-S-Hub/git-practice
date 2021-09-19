@@ -3,3 +3,4 @@
 自分のリポジトリで更新
 rebase-practiceブランチで更新（rebase用）
 rebase用
+stash練習

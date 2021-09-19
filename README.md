@@ -8,3 +8,5 @@ no-fast-forwardブランチによるAutomatic merge練習の為、編集
 conflictブランチによるConflict merge練習の為、編集
 
 リモートリポからのfetch理解の為、githubから更新
+
+リモートリポからのpull時のconflict対処練習の為、conflict-remoteから更新

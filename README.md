@@ -3,4 +3,4 @@
 
 更新します！！  
 
-rebase-practice ブランチで更新
+rebase-practice mainブランチで更新

@@ -6,3 +6,4 @@
 rebase-practice ブランチで更新1
 rebase用
 Stash練習トラック済
+2nd edit

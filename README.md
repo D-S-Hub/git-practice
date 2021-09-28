@@ -3,4 +3,4 @@
 edit on local repo  
 edited on new-feature  
 コンフリクトブランチ  
-GitHub上で更新  
+GitHub上で更新 for Conflict test  

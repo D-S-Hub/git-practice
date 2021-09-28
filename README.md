@@ -3,4 +3,4 @@
 edit on local repo  
 edited on new-feature  
 コンフリクトブランチ  
-GitHub上で更新  
+conflict-remote上で更新（コンフリクト発生）

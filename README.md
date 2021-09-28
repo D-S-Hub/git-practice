@@ -5,3 +5,5 @@
 
 rebase-practice ブランチで更新1
 rebase用
+Stash用に更新
+

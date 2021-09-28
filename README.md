@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．  
 edit on local repo  
 edited on new-feature  
-コンフリクトブランチ
+コンフリクトブランチ  
+GitHub上で更新  

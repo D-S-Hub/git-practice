@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 変更！！
 
-new-feature ブランチで変更
+no-new-feature ブランチで変更!!

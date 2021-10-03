@@ -6,5 +6,7 @@
 conflict ブランチで変更!!
 github上で更新
 
+<<<<<<< HEAD
 conflict競合発生
 ローカルリポ
+

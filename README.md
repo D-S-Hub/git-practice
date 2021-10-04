@@ -1,3 +1,3 @@
 # git-practice
 ローカルリポで変更
-change on new-feature branch
+change on no-fast-foward branch

@@ -3,5 +3,5 @@
 ローカルリポで変更  
 ブランチマージ
 no-fast-forwardブランチで変更して保存
-github上で変更
+github上で変更2
 

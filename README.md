@@ -4,4 +4,4 @@
 
 merge 用に少し変更
 
-no-fast-forwardブランチで変更
+mainブランチで変更

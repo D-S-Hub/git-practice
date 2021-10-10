@@ -1,3 +1,3 @@
 # git-practice
 ローカルリポで変更
-change on no-fast-foward branch
+change on main branch(raise conflict)

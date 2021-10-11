@@ -1,2 +1,2 @@
 # git-practice
-Githubで更新2回目
+conflict-rmote上で更新（コンフリクト発生）

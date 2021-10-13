@@ -8,4 +8,4 @@ stash練習(2nd変更)
 tag ver1.1
 ローカルで変更
 new-featureブランチで変更
-no-fast-fowardで変更
+mainで変更(conflict発生)

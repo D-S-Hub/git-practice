@@ -2,3 +2,4 @@
 このリポジトリはGit動画講座用です．
 変更
 newfeatureで変更
+no-fast-forwordで変更

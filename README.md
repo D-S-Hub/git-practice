@@ -10,4 +10,4 @@ tag ver1.1
 new-featureブランチで変更
 conflict変更
 Github上で更新
-Github上で更新2回目
+conflict-remote上で更新

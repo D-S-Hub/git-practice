@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGitです．
 ローカルリポで変更
-change new-feature 
+change no-conflict発生

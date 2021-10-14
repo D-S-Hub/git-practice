@@ -4,4 +4,5 @@
 new-featureブランチで変更
 no-fast-forwardブランチで変更
 conflictブランチで修正
+github上で修正
 

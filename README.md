@@ -2,4 +2,3 @@
 このリポジトリはGitです．
 ローカルリポで変更
 change conflictはっせい
->>>>>>> conflict

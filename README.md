@@ -1,4 +1,5 @@
 # git-practice
 このリポジトリはGitです．
 ローカルリポで変更
-conflictリモート
+コンフリクトの練習
+

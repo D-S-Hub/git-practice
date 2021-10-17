@@ -3,3 +3,4 @@
 ローカルリポで変更
 conflictブランチで変更
 github上で更新
+github上で更新２

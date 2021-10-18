@@ -6,3 +6,5 @@
 new-feature branchで変更
 
 conflictで変更
+
+conflict-remoteで修正(コンフリクト)

@@ -7,4 +7,4 @@ new-feature branchで変更
 
 conflictで変更
 
-編集 on github
+conflict-remoteで修正(コンフリクト)

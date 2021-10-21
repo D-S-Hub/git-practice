@@ -1,0 +1,3 @@
+add new file 
+pull時にrebaseしてみよう
+今度はrebaseせずに！

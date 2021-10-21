@@ -1,0 +1,3 @@
+outmaticmerge
+
+stashの練習

@@ -1,6 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-rebase-practice branch で更新
+rebase-practice-branchで更新
 
 

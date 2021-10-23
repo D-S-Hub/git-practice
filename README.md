@@ -2,5 +2,6 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
 rebase-practice-branchで更新(rebase-conflict用)
+rebase用
 
 

@@ -5,4 +5,4 @@
 merge 用に少し変更
 
 conflictブランチで変更
-github上でマージ
+github上でマージ2回目

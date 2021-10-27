@@ -3,3 +3,4 @@
 変更  
 new-feature branch de henkou  
 no-fast-forward branch de henkou  
+conflict branch de henkou  

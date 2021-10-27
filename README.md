@@ -1,3 +1,3 @@
 # git-practice
-このリポジトリはGit動画講座用です．
-change local repo
+このリポジトリはGit動画講座用です．  
+new-featureブランチで変更

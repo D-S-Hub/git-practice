@@ -3,3 +3,4 @@
 変更しました。　　
 
 git hub上で変更
+conflict remote上で変更　conflict発生

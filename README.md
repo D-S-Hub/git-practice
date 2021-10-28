@@ -3,4 +3,4 @@
 変更  
 new-feature branch de henkou  
 all ok!  (success conflict)  
-Change on Github  
+Change on conflict-remote

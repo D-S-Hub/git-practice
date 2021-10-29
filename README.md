@@ -1,4 +1,6 @@
-メインブランチで変更
+
+conflictブランチで変更
+>>>>>>> conflict
 
 
 nof-fast-forward branch

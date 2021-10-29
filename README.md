@@ -1,6 +1,4 @@
-
-conflictブランチで変更
->>>>>>> conflict
+github上で更新
 
 
 nof-fast-forward branch

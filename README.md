@@ -1,3 +1,4 @@
+
 github上で更新してをconflicｔを発生させる
 remote上で更新
 

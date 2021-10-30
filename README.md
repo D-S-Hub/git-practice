@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更 
-no-fast-foward ブランチで変更した.
+俺のconflictは…終わらねぇ！！そうだろう？ワイルドだろう？

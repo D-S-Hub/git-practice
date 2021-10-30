@@ -1,6 +1,4 @@
-
-github上で更新してをconflicｔを発生させる
-remote上で更新
+feature
 
 nof-fast-forward branch
 aaaa# git-practice

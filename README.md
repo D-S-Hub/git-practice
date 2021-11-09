@@ -1,4 +1,5 @@
 # git-practice
 localrepoで変更
 ## stage
-今回はno-fast-forwardを体験してみます。
+今回はfor main-branchを体験してみます。
+こちらはメインとなっております。

@@ -1,4 +1,4 @@
 # git-practice
 localrepoで変更
 ## stage
-今回はno-fast-forwardを体験してみます。
+今回はconflictを体験してみます。

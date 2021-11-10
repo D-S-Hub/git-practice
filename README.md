@@ -1,4 +1,4 @@
 # git-practice
 localrepoで変更
 ## stage
-今回はconflictを体験してみます。
+github上で更新しました

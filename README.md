@@ -1,5 +1,7 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 
-conflictブランチで変更(コンフリクト発生)
-github上で更新　第二弾
+conflictブランチで変更
+conflict-remote上でで更新（コンフリクト発生)
+
+もう一度

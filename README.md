@@ -2,4 +2,4 @@
 
 ローカルリポで変更しました。
 
-conflict ブランチで変更(conflict 発生)
+github上で更新

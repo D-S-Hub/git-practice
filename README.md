@@ -2,4 +2,4 @@
 
 ローカルリポで変更しました。
 
-no-fast-foward ブランチで変更
+conflict ブランチで変更(conflict 発生)

@@ -2,4 +2,4 @@
 
 ローカルリポで変更しました。
 
-github上で更新 2回目
+conflict-remote 上で更新(conflict 発生)

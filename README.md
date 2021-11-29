@@ -3,8 +3,4 @@
 
 ローカルリポで変更
 
-conflictブランチで変更(コンフリクト発生)
-
-github上で更新
-
-conflict-remoteで更新
+rebace-practiceブランチで更新

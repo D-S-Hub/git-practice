@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 conflict ブランチで変更
-github上で更新
+conflict-merge上で更新

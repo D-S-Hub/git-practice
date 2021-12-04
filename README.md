@@ -3,3 +3,4 @@
 ローカルリポで変更  
 conflict branchで変更
 githubmで変更
+2 times 

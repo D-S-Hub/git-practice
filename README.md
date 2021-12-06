@@ -1,4 +1,6 @@
-# git-practice
+
 このリポジトリはGit動画講座用です
 gitgitgitgitgi
-No-fast-forwardブランチで変更
+
+Modified at new-feature branch
+No-fast-forwarで変更

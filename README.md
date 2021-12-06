@@ -4,4 +4,4 @@ gitgitgitgitgi
 
 Modified at new-feature branch
 No-fast-forwarで変更
-github上で更新
+github上で更新 2回目の更新

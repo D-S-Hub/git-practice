@@ -1,3 +1,3 @@
 wow
 wowoow
-ローカルリポで変更
+no-fast-forwaordで変更

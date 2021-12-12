@@ -1,6 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ロー狩るで変更
-conflictで変更
-github上で更新
-conflict上で更新
+自分のリポジトリで更新

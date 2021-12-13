@@ -1,3 +1,3 @@
 wow
 wowoow
-mainブランチで変更
+conflictブランチで変更

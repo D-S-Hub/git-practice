@@ -1,3 +1,3 @@
 wow
 wowoow
-no-fast-forwaordで変更
+mainブランチで変更

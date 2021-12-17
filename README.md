@@ -1,4 +1,1 @@
-wow
-wowoow
-conflictブランチで変更
-conflict-remote上で変更
+自分のリポジトリで更新　#2022-12-18

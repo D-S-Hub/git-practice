@@ -3,4 +3,4 @@
 
 ローカルリポで変更しました。　　
 
-no-fast-forwardブランチで変更
+conflict-brブランチで変更

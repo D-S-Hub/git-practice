@@ -3,4 +3,4 @@
 
 ローカルリポで変更しました。　　
 
-new-feature ブランチで変更
+no-fast-forwardブランチで変更

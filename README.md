@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-new-fast-forwardで変更
+mainブランチで変更(コンフリクト発生)

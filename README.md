@@ -11,3 +11,5 @@ conflict-brブランチで変更
 new-feature ブランチで変更　　
 
 new2 ブランチで変更
+
+no-fast-foward で変更

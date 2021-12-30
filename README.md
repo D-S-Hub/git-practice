@@ -17,3 +17,4 @@ no-fast-foward で編集
 
 conflict ブランチで編集
 
+git hub で更新

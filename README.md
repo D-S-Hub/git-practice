@@ -3,3 +3,4 @@
 ローカルリポで編集
 
 new-feature
+no-faxt-forward

@@ -2,5 +2,4 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで編集
 
-git-hub
-git-hub conflict
+update my repo

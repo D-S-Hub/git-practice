@@ -18,5 +18,6 @@ no-fast-foward で編集
 conflict ブランチで編集
 
 git hub で更新
+conflict-remote上で更新（こんふりクト発生）
 
-git hub で更新２
+

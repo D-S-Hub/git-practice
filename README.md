@@ -3,4 +3,4 @@
 ローカルリポで編集
 
 git-hub
-git-conflict
+git-hub conflict

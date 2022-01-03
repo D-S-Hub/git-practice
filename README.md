@@ -1,6 +1,3 @@
 # git-practice
-このリポジトリはGit動画講座用です．
-test
-testtest
-tttest
-test1
+このリポジトリはGit動画講座用です．//
+changed on github

@@ -1,2 +1,2 @@
 # git-practice
-test
+origin

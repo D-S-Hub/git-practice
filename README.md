@@ -4,3 +4,4 @@ hogehogeです
 new-feature
 fugafuga
 conflictブランチで変更
+github上で更新

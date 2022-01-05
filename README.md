@@ -1,3 +1,4 @@
 # git-practice
-このリポジトリはGit動画講座用です．
-ローカルリポで変更
+This reo is for practice
+Change made at local repo
+change in new-feature branch

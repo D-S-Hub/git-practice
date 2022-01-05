@@ -1,2 +1,3 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+This reo is for practice
+update on my repo

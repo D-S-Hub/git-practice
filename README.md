@@ -5,3 +5,4 @@ new-feature
 fugafuga
 conflictブランチで変更
 github上で更新
+conflict-remote上で更新

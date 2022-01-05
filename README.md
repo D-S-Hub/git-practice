@@ -3,4 +3,4 @@
 hogehogeです
 new-feature
 fugafuga
-mainブランチで変更
+conflictブランチで変更

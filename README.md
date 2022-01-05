@@ -3,4 +3,3 @@
 hogehogeです
 new-feature
 fugafuga
-piyopiyo

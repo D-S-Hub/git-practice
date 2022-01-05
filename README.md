@@ -3,4 +3,4 @@
 
 ローカルリポで変更
 
-github上で変更２回目
+conflict-remote上で変更

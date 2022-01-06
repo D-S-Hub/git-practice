@@ -3,4 +3,4 @@
 ローカルリポジトリでこの行追加。
 new-featureブランチでこの行追加。
 no-fast-forwardブランチでこの行追加。
-mainブランチでこの行追加。
+conflictブランチでこの行追加。

@@ -4,3 +4,4 @@
 new-featureブランチで編集しました。
 mainブランチで編集します。
 GitHub上で更新しました。
+GitHub上で更新しました。２回目。

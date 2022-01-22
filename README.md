@@ -1,4 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 local test
-Git hub上で甲子園
+<<<<<<< HEAD
+Git hub上で更新　りべんじjinn
+

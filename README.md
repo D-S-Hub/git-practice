@@ -4,3 +4,4 @@ new_featureブランチで変更
 conflictブランチで変更
 no-fastで再度変更する
 github上で更新
+変更staging用

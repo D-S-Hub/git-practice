@@ -4,6 +4,5 @@ I get it.
 
 conflict branch happened
 
-update on github
+update on conflict-remote
 
-OMG

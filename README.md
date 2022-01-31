@@ -1,5 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-change local repo22
-add branch 
-confliftで更新(コンフリクト発生)
+自分のリポジトリで更新
+
+技術チームについて絶賛help me 状態。
+contact us masaaki@mkb.ne.jp

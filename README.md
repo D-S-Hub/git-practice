@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 change local repo22
 add branch 
-git hubで更新 2回目
+confliftで更新(コンフリクト発生)

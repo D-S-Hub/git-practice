@@ -6,3 +6,4 @@ no-fastで再度変更する
 github上で更新
 変更staging変更ようリポジトリ
 git diff --staged
+緊急

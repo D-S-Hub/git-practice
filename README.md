@@ -8,3 +8,4 @@ github上で更新
 git diff --staged
 緊急
 git stash 
+rebase_practiceで練習

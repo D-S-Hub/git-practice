@@ -1,3 +1,3 @@
 # git-practice
 hennkou　　
-conflictブランチで変更
+github上で変更

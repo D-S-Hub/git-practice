@@ -1,3 +1,3 @@
 # git-practice
 hennkou　　
-github上で変更
+conflict-remote上で変更

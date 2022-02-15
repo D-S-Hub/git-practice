@@ -1,3 +1,2 @@
 # git-practice
-hennkou　
-conflict-remote上で変更
+自分のリポジトリで更新

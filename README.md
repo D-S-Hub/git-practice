@@ -6,4 +6,4 @@ new-feature-branchで変更
 mainブランチに変更
 conflictブランチで変更
 
-Github上で更新しました
+conflict-remote上で更新しました

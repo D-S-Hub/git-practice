@@ -3,4 +3,4 @@
 変更
 new-feature-branchで変更
 
-no-fast-forward
+conflictブランチで変更

@@ -7,3 +7,5 @@
 
 new-featureブランチで変更を加えました。
 new-featureブランチで追加変更を加えました。
+
+no-fast-forwardブランチで変更しました。

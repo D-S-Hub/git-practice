@@ -7,3 +7,5 @@ mainブランチに変更
 conflictブランチで変更
 
 Github2上で更新しました
+
+conflict-remote追加

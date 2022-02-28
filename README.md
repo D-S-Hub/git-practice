@@ -6,5 +6,5 @@
 コンフリクトで変更
 >>>>>>> conflict
 =======
-編集　追加
->>>>>>> no-fast-forward
+編集　追
+git hubで更新

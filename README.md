@@ -14,4 +14,4 @@ no-fast-forwardブランチで変更しました。
 ローカルのconflict2-remoteブランチで編集をしました。
 
 
-
+ローカルのnew-featureブランチで編集しました。

@@ -15,4 +15,4 @@ Github上で更新しました。
 <<<<<<< HEAD
 conflict-remoteブランチ(ローカル)で編集しました。
 
-
+ローカルのconflict2-remoteブランチで編集をしました。

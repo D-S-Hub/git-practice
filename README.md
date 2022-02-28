@@ -11,3 +11,4 @@ new-featureブランチで追加変更を加えました。
 no-fast-forwardブランチで変更しました。
 
 Github上で更新しました。
+conflict-remoteブランチ(ローカル)で編集しました。

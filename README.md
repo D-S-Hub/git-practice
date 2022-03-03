@@ -1,3 +1,3 @@
 # git-practice
 
-conflict で変更
+Github で変更しました

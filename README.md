@@ -1,4 +1,4 @@
 # git-practice
 
 Github で変更しました
-田中が更新したよ
+鍋谷が更新

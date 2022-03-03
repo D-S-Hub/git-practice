@@ -1,3 +1,3 @@
 # git-practice
 
-main で変更
+conflict で変更

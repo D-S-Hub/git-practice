@@ -1,3 +1,3 @@
 # git-practice
 
-新しいブランチで作成
+no-fast-forward で変更

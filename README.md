@@ -3,3 +3,4 @@
 gittest1
 gittest2
 gittest3
+conflict

@@ -1,5 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 local repoで保存
-git hub上で更新
-編集
+conflict remote上で更新(conflict will happen)

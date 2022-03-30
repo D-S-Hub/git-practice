@@ -3,4 +3,5 @@
 この部分を追加しました。
 add new-feature branch
 add no-fast-forward
-github上で更新２回目
+github上で更新
+conflict-remote上で更新（conflict発生）

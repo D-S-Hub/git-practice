@@ -3,3 +3,4 @@
 変更しました。
 new-feature
 no-fast-forward2
+conflict

@@ -5,4 +5,6 @@ new-feature
 no-fast-forward2
 merge conflict
 fetchを行う
+<<<<<<< HEAD
 コンフリクト
+

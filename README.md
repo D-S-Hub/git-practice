@@ -4,7 +4,8 @@
 
 merge 用に少し変更
 
-conflictブランチで変更
-github上でマージ2回目
+<<<<<<< HEAD
+conflict-remote上で変更
+github上でマージ
 
-github 上で直接編集
+結構変更

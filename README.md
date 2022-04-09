@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-no-fast-forwawrdブランチで変更
+ローカルリポで変更
+mainブランチで変更（コンフリクト発生）

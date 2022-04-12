@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 
 
-no-fast-forwardでへんんこう
+
+conflict branchで変更

@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 
 
-new-featureでへんんこう
+no-fast-forwardでへんんこう

@@ -3,4 +3,5 @@
 
 mainブランチで変更（コンフリクト発生）
 
-github上で更新2回目
+conflict-remote上で更新（コンフリクト発生）
+

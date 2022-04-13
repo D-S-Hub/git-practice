@@ -1,4 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで修正  
-main0ブランチで変更(コンフリクト発生)
+
+conflictブランチで変更(conflict発生)

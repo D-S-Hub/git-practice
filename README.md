@@ -1,6 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで修正  
-
-conflictブランチで変更(conflict発生)
-githab上で更新
+ローカルリポで変更
+githab上で更新２回目　　

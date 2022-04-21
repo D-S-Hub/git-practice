@@ -3,4 +3,4 @@ change このリポジトリはGit動画講座用です．
 new-featureブランチで変更
 no-fast-forwardで変更
 conflictで変更（main）
-GitHub上で更新(conflict)
+conflict-remote上で更新(conflict発生)

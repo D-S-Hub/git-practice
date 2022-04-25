@@ -4,3 +4,4 @@
 no-fastブランチで更新
 conflictブランチで更新
 conflict-remote上で更新  conflict発生
+本来はgithub上では更新しない！

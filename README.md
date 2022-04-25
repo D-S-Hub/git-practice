@@ -3,5 +3,4 @@
 ローカルリポで変更
 no-fastブランチで更新
 conflictブランチで更新
-更新
-github上で更新
+本来はgithub上では更新しない！

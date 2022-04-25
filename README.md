@@ -4,3 +4,4 @@
 no-fastブランチで更新
 conflictブランチで更新
 更新
+github上で更新

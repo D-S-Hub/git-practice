@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 testtest
-new-feature branch change
+no-fast-forward branch change

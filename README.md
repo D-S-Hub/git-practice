@@ -4,3 +4,5 @@ new-featureで変更。
 Automatic mergeを確認するための、no-fast-forward側の変更。
 main側での変更.conflictを解消。
 GitHub上での変更
+conflict-remote上での更新。
+

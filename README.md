@@ -6,4 +6,3 @@ no-fast-forwardブランチで変更
 conflictブランチで変更
 github上で更新
 coflict-remote で更新
- 

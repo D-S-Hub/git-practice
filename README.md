@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-mainブランチにて更新
+merge-conflictブランチにて更新

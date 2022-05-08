@@ -2,4 +2,4 @@
 
 このリポジトリは Git 動画講座用です．
 ローカルリポ
-branch で変更
+no-fast-forward で変更

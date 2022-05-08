@@ -7,3 +7,4 @@ rebase-practiceブランチで更新（rebase用）
 
 12:03ローカルリポジトリにて更新
 16:55stashconflict
+17:17 stash git ignore

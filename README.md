@@ -2,4 +2,6 @@
 
 このリポジトリは Git 動画講座用です．
 ローカルリポ
-main で変更
+conflict で変更
+
+> > > > > > > conflict

@@ -5,3 +5,4 @@ new-featureブランチで変更しました。
 no-fast-forwardブランチで変更しました。
 conflictで変更しました。
 github上で更新しました。
+conflict-remoteで更新しました。

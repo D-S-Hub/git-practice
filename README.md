@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-ner-featureブランチで変更
+no-fast-forwoardブランチで変更

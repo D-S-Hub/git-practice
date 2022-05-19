@@ -6,3 +6,4 @@ no-fast-forwardブランチで変更しました。
 conflictで変更しました。
 github上で更新しました。
 conflict-remoteで更新しました。
+自分のrepoで更新しました。

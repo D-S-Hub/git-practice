@@ -1,4 +1,4 @@
 # git-practice
 動画用だけど変更してみました。
 new-featureブランチで変更や
-mainブランチで変更（コンフリクト発生）
+conflict branchで変更

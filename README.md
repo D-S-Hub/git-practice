@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-no-fast-feature branchで変更
+main branchで変更(コンフリクト発生)

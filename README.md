@@ -3,4 +3,5 @@
 ローカルリポで変更　　
 new-featureブランチで変更
 conflictブランチで変更（コンフリクト発生）
-Github上で更新
+conflict-remote上で更新(コンフリクト発生)
+

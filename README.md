@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-NO-FASt
+conflict branchで変更

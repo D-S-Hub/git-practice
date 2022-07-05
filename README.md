@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-github上で更新　２回目
+conflict-readme上で更新　コンフリクト
 

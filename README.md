@@ -1,9 +1,5 @@
 # git-practice
 
-updated
-
-new-feature branch
-
-no-fast-forward branch
+confkict!!!!!!!!!!!
 
 このリポジトリはGit動画講座用です．

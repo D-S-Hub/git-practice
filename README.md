@@ -8,3 +8,5 @@ conflictの実験
 mainで編集してみた
 
 他branchで編集してみた
+
+mainブランチで更新した。

@@ -9,4 +9,4 @@ mainで編集してみた
 
 他branchで編集してみた
 
-conflict remote branch上で更新
+ローカルリポで更新

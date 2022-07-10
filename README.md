@@ -5,4 +5,4 @@ new-featureブランチで変更
 <<<<<<< HEAD
 コンフリクトで変更
 conflict-remote上で更新
-
+自分のリポで更新

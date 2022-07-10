@@ -9,4 +9,4 @@ mainで編集してみた
 
 他branchで編集してみた
 
-mainでサイド編集してみた。
+GitHub上で更新。

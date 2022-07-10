@@ -11,4 +11,4 @@ mainで編集してみた
 
 GitHub上で更新。
 
-Github上での更新２。
+Github上での更新しましたよ。

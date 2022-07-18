@@ -3,3 +3,4 @@
 変更　　
 conflict branchでブランチで変更
 
+gitHubで更新

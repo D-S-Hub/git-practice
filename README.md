@@ -3,4 +3,5 @@
 変更　　
 conflict branchでブランチで変更
 
-gitHubで更新
+gitHubで更新2回目
+

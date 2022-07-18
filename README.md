@@ -4,3 +4,4 @@
 Update in local repository
 conflict-remote上で更新 # conflict
 rebase-pracitceブランチで更新(rebase用)
+rebase-pracitceブランチで更新(rebase用 conflict @main)

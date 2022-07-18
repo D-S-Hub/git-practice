@@ -3,4 +3,4 @@
 変更　　
 conflict branchでブランチで変更
 
-gitHubで更新
+conflict-remoteで更新(コンフリクト発生)

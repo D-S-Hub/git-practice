@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
 GitHub上で更新3回目
-sublがconflict時の起動を確認
+sublがconflict時に起動するか確認

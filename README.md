@@ -5,6 +5,7 @@
 総理大臣　prime minister
 勝つまでは欲しがりません
 never ever give up
+やり抜く覚悟
 
 
 

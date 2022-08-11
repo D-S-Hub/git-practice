@@ -2,4 +2,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 localりぽで変更
-main branchで変更
+conflict branchで変更

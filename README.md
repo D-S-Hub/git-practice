@@ -2,4 +2,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 localりぽで変更
-git hub上で変更2回目
+<<<<<<< HEAD
+conflict-remote上で変更

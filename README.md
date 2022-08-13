@@ -4,4 +4,4 @@
 new-featureブランチで変更
 no-fast-fowardで変更
 github上で更新
-github上で更新2回目
+conflict-remote上で更新(コンフリクト発生)

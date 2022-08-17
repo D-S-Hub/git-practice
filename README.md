@@ -3,3 +3,4 @@
 ローカルリボで変更
 
 new-featureブランチで変更
+no-fast-forwadブランチでリードミーを変更

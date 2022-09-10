@@ -5,3 +5,4 @@
 # conflictの練習しまする。
 # GitHub上で更新しましす。
 # 直接編集します！
+# conflict-remoteで編集！

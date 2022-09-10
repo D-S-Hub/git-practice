@@ -4,5 +4,5 @@
 new-featureブランチで変更
 Nno-fast-forwadで変更
 conflictの練習しまする。
-GitHub上で更新しましす。
+Conflict-remote上で更新しましす。
 

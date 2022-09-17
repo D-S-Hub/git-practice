@@ -8,3 +8,5 @@
 # conflict-remoteで編集！
 コンフリクトマージで編集
 stash 練習トラック済み
+2nd 変更
+tag commit

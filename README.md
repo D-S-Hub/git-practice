@@ -6,3 +6,4 @@ no-fast-forwardで変更
 conflict branchで変更(20:37)  
 GitHub上で更新
 conflict-remoteで更新
+

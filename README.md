@@ -1,2 +1,2 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+Updated 2022-9-18 21:08

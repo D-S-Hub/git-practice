@@ -3,4 +3,4 @@
 change
 changechange
 no-fast-forward
-conflict2
+conflict

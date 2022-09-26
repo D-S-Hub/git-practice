@@ -5,4 +5,6 @@ changechange
 no-fast-forward
 conflict
 git hub 
-git hub3
+<<<<<<< HEAD
+git hub2
+

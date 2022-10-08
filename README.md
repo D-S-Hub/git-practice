@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-no-fast-forwardブランチで変更
+mianブランチで変更(コンフリクト発生)

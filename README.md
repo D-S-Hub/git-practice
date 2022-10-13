@@ -3,3 +3,8 @@
 ローカルリポで変更　　
 rebase-practiceブランチで更新(rebase コンフリクト用)
 rebase pull用
+<<<<<<< Updated upstream
+stashコンフリクト用
+=======
+stash練習
+>>>>>>> Stashed changes

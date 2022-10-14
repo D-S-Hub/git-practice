@@ -6,3 +6,4 @@ new-featureブランチで編集
 no-fast-forward ブランチで編集
 conflict ブランチで編集
 github上で編集
+再びgithub上で編集

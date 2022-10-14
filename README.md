@@ -3,3 +3,4 @@
 ローカルリポで修正したよ！　　
 
 new-featureブランチで編集
+no-fast-forward ブランチで編集

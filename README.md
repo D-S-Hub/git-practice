@@ -4,4 +4,4 @@
 
 new-featureブランチで編集
 no-fast-forward ブランチで編集
-main ブランチで編集
+conflict ブランチで編集

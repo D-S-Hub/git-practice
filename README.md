@@ -3,4 +3,5 @@
 ローカルで更新した  
 conflict branchで更新した
 
-rebase branchで更新した
+delete branchで更新した
+rebase pull用

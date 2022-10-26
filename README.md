@@ -1,4 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルりぽ
-mainブランチで変更（コンフリクト発生）
+
+cinfkict branchで変更  

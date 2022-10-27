@@ -3,6 +3,3 @@
 ローカルりぽ
 
 
-conflict remote
-上で変更  
-conflict

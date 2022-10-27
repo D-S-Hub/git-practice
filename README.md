@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 ローカルりぽ
 
-cinfkict branchで変更  
+github上で変更  

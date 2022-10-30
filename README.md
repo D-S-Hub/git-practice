@@ -4,3 +4,5 @@
 new-feature ブランチでさらなる変更を加える.
 
 no-fast-forward ブランチで追加する.  わお.  
+
+conflict させちゃうよ～ん☆

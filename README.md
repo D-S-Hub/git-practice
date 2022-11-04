@@ -1,4 +1,4 @@
 # git-practice
 new-featureで変更
 
-no-fast-forward
+mainブランチで変更（こんふりくと発生））

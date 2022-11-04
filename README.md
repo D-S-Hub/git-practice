@@ -1,4 +1,5 @@
 # git-practice
 new-featureで変更
 
-mainブランチで変更（こんふりくと発生））
+conflictで変更したよ
+>>>>>>> conflict

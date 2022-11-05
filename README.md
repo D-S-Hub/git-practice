@@ -1,5 +1,2 @@
 # git-practice
-new-featureで変更
-
-<<<<<<< HEAD
-aaaaaaaaaaaaaaa
+自分のリポジトリで更新

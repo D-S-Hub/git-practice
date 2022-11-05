@@ -2,5 +2,8 @@
 new-featureで変更
 
 conflictで変更したよ
->>>>>>> conflict
-github上で更新
+
+
+github上で更新　2回目
+
+

@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
 new-featureで変更
-no-fast-fowardで変更
+no-fastで変更
+

@@ -3,4 +3,5 @@
 ローカルリポで変更
 new-featureで変更
 no-fastで変更 これで最後
-branch main
+branch conflict
+>>>>>>> conflict

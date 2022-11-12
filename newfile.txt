@@ -1,0 +1,1 @@
+add newfile for automatic merge

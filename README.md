@@ -5,3 +5,4 @@ new-featureで変更
 no-fastで変更 これで最後
 branch conflict
 >>>>>>> conflict
+git hub上で更新

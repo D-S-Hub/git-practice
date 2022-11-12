@@ -6,3 +6,4 @@ no-fastで変更 これで最後
 branch conflict
 >>>>>>> conflict
 git hub上で更新
+conflict-remote上で更新（コンフリクト発生）

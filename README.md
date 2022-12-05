@@ -4,4 +4,4 @@
 new-feature branchで編集20221203
 ブランチで変更no-fast-forward
 コンフリクトブランチで変更
->>>>>>> conflict
+Git hubで更新_20221206

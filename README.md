@@ -9,3 +9,4 @@ rebaseコンフリクト
 pull-rebase
 stash practice
 stash練習(トラック済み)
+stash練習(2nd)

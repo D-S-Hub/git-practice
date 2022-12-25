@@ -4,4 +4,4 @@
 new-featureで変更
 nofastforward
 編集
-メインでもコンフリンク
+conflict

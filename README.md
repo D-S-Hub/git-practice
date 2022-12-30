@@ -5,5 +5,5 @@ new-featureブランチで変更
 no-fast-forwardブランチで変更
 conflict branchで変更
 
->>>>>>> conflict
-condlict-remote上で更新　github上で更新
+2回目
+>>>>>>> f75b176b454fd67216d818a17d9779f67905b301

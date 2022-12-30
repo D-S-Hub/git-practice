@@ -1,1 +1,1 @@
-no-fast-forword ブランチで変更
+confilict ブランチで変更

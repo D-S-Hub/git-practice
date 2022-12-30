@@ -6,4 +6,4 @@ no-fast-forwardブランチで変更
 conflict branchで変更
 
 >>>>>>> conflict
-github上で更新
+condlict-remote上で更新　github上で更新

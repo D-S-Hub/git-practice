@@ -1,1 +1,1 @@
-main ブランチで変更
+confilict ブランチで変更

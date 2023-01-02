@@ -6,3 +6,4 @@ nofastforward
 編集
 conflict
 conflict-remote上で更新
+

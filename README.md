@@ -6,3 +6,4 @@ nofastforward
 編集
 conflict
 github上で更新
+conflict用更新

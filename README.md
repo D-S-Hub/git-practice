@@ -5,4 +5,4 @@ new-featureで変更
 nofastforward
 編集
 conflict
-github上で更新
+conflict-remote上で更新

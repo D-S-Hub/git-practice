@@ -1,4 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 変更
-bew-feature
+
+
+mainブランチで変更（コンフリクト発生）

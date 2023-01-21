@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-変更
-bew-feature
+ローカルリポで変更
+conflictで編集

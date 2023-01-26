@@ -1,3 +1,3 @@
 # git-practice
 branch lecture
-main branchで更新
+conflict branchで更新

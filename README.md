@@ -1,3 +1,3 @@
 # git-practice
 branch lecture
-no-fast-forward
+main branchで更新

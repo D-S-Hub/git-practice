@@ -1,3 +1,3 @@
 # git-practice
 branch lecture
-no-fast-forward
+conflict branchで更新

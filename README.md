@@ -1,2 +1,3 @@
 # git-practice
-conflict2 merge
+conflict merge
+>>>>>>> conflict

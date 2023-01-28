@@ -1,3 +1,1 @@
-# git-practice
-conflict merge
->>>>>>> conflict
+fuck you

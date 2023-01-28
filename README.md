@@ -1,2 +1,2 @@
 # git-practice
-automaticaly merge
+conflict merge

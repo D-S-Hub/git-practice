@@ -1,2 +1,2 @@
 # git-practice
-ブランチの変更!!
+automaticaly merge

@@ -3,3 +3,4 @@
 ローカルリポで変更　
 conflictブランチで変更
 conflict-remote上で更新(conflict)
+自分のリポジトリで更新

@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 Revised at the local repository
-Revised by new-feature branch 
+Re-revised by no-fast-forward 

@@ -5,3 +5,5 @@
 $e^{i\pi} + 1 = 0$
 
 new-featureブランチで変更
+
+no-fast-forwardブランチで変更

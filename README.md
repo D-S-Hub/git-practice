@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 
-更新しました2！
+no-fast-forwardブランチ変更

@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 
-no-fast-forwardブランチ変更
+mainブランチ変更（コンフリクトの派生）

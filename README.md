@@ -7,4 +7,4 @@ no-fast-forward2で変更
 conflictで変更
 GitHub上で更新
 conflict-remoteで更新
-
+自分のリポジトリで更新

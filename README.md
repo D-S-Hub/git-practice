@@ -5,3 +5,4 @@ no-fast-forwardで変更
 デフォルトのエディタ変更
 no-fast-forward2で変更
 conflictで変更
+GitHub上で更新

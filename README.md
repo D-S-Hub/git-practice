@@ -1,4 +1,6 @@
 # git-practice
 リポで変更
 
-編子mianコンフリクト
+
+コンフリ区とブランチで変更
+>>>>>>> conflict

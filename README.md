@@ -1,4 +1,4 @@
 # git-practice
 リポで変更
 
-編子
+編子mianコンフリクト

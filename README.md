@@ -1,5 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-変更してやったぜ！
-rebase-practice
-あひゃひゃひゃひゃ
+for stush training

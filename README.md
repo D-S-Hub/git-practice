@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 
-rebase branch で更新
+main branch で更新conflictyou

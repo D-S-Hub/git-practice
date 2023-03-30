@@ -1,5 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更  
-confrictブランチで変更
-
+gitgub上で変更

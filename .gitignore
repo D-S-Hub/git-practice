@@ -1,3 +1,4 @@
 output.log
 .DS_Store
 .orig
+ignore_file.txt

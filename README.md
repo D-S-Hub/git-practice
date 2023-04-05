@@ -4,4 +4,3 @@
 Add change
 conflict
 update on the remote repo
-conflict test at local repo

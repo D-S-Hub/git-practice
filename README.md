@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更する　　
-no-fast-forwardブランチで変更
+1mainブランチで変更(コンフリクト発生)

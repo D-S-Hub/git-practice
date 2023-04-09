@@ -3,4 +3,4 @@
 hennkou
 new-feature
 conflict
-github
+github-remote-conflict

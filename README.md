@@ -1,6 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-hennkou
-new-feature
-conflict
-github-remote-conflict
+自分のリポジトリで更新

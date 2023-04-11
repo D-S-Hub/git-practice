@@ -1,5 +1,5 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+このリポジトリはGit動画講座用です．<BR>
 ローカルリポで変更　　
 new-featureブランチで変更
 no-fast-fowardで変更

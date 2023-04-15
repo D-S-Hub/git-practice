@@ -1,4 +1,4 @@
 # git-practice
 ローカルリポで編集
 new-feature
-mainブランチで変更(conflict発生)
+conflictブランチで変更(コンフリクトが発生)

@@ -1,4 +1,4 @@
 # git-practice
 ローカルリポで編集
 new-feature
-no-fast-forwardで変更
+conflictブランチで変更(コンフリクトが発生)

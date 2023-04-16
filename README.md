@@ -1,5 +1,3 @@
 # git-practice
-ローカルリポで編集
-new-feature
-conflictブランチで変更(コンフリクトが発生)
-conflict-remote上で更新(コンフリクト発生)
+このリポジトリはGit動画講座用です．
+自分のリポジトリで更新

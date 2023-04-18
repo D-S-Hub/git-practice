@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-github上で更新さらに編集
+conflict-remote上で更新
+coflict発生

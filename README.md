@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-no-fast-forwardで変更
+main変更（コンフリクト発生）

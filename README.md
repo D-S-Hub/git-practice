@@ -3,4 +3,6 @@
 ローカルリポで変更
 no-fast-forwardブランチで変更
 conflictブランチで変更
-Github上で更新2回目
+Github上で更新
+conflict-remote上で変更
+

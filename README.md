@@ -4,5 +4,4 @@
 new-featureブランチで変更
 no-fast-forwardブランチで変更
 conflictブランチで変更(コンフリクト発生)
-Github上で変更
-Github上で変更2回目
+conflict-remote上で変更(コンフリクト発生)

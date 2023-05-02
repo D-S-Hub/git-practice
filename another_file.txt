@@ -1,0 +1,2 @@
+新しいファイルをmain branchで作成
+pull時のrebase用

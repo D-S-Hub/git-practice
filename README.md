@@ -1,3 +1,3 @@
 # git-test
 テスト用です。
-conflict branchで変更
+github上で更新

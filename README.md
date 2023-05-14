@@ -1,3 +1,3 @@
 # git-test
-テスト用です。
-github上で更新
+テスト用
+github上で2回目の更新

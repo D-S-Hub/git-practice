@@ -1,3 +1,3 @@
 # git-test
 テスト用です。
-mainbranchで変更
+conflict branchで変更

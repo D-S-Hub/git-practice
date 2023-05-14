@@ -1,3 +1,3 @@
 # git-test
 テスト用です。
-github上で更新
+conflict-remote上で更新

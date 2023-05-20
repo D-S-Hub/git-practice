@@ -1,7 +1,7 @@
 # git-practice
-ã“ã®ãƒªãƒã‚¸ãƒˆãƒªã¯Gitå‹•ç”»è¬›åº§ç”¨ã§ã™ï¼Ž
-ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã§å¤‰æ›´  
-mainãƒ–ãƒ©ãƒ³ãƒã§æ›´æ–°(rebase ã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆç”¨)
-rebaseç”¨
+‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ÍGit“®‰æuÀ—p‚Å‚·D
+ƒ[ƒJƒ‹ƒŠƒ|‚Å•ÏX  
 
+stash—ûK—p
+stashƒRƒ“ƒtƒŠƒNƒg—p
 

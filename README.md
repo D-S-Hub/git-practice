@@ -1,2 +1,2 @@
 ローカルリポで変更
-new-featureブランチで変更
+no-fast-forwardで変更

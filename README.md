@@ -1,2 +1,7 @@
 # git-practice
-mainbranchで変更
+
+conflictブランチで変更(コンフリクト発生)aaa
+
+
+
+>>>>>>> conflict

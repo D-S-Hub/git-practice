@@ -1,2 +1,2 @@
 # git-practice
-new-feature branchで変更
+no-fast-forward branchで変更

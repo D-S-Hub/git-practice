@@ -1,2 +1,2 @@
 # git-practice
-no-fast-forward branchで変更
+mainbranchで変更

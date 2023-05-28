@@ -1,2 +1,5 @@
 # git-practice
-no-fast-forward branchで変更
+conflictブランチで変更(コンフリクト発生)aaa
+
+
+

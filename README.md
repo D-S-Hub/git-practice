@@ -1,2 +1,3 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+<<<<<<< HEAD
+conflict-remote 上で更新コンフリクト発生

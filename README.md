@@ -1,2 +1,3 @@
 # git-practice
-git hub 上で更新　２回目
+<<<<<<< HEAD
+conflict-remote 上で更新コンフリクト発生

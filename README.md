@@ -1,7 +1,2 @@
 # git-practice
-
-conflictブランチで変更(コンフリクト発生)aaa
-
-
-
->>>>>>> conflict
+git hub 上で更新

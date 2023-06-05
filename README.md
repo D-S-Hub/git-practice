@@ -1,3 +1,3 @@
 # git-practice
 <<<<<<< HEAD
-rebase-practice で変更
+mainブランチ で変更（conflict用）

@@ -1,3 +1,3 @@
 # git-practice
 <<<<<<< HEAD
-conflict-remote 上で更新コンフリクト発生
+rebase-practice で変更

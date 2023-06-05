@@ -1,2 +1,6 @@
 新しいファイルをmainで作成
+<<<<<<< HEAD
 rebase用
+=======
+pull時のrebase用コミット
+>>>>>>> f0e4c31 (update another_file.txt)

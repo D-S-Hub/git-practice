@@ -1,3 +1,3 @@
 # git-practice
 <<<<<<< HEAD
-mainブランチ で変更（conflict用）
+stash�iconflict�p�j

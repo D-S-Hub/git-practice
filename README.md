@@ -1,3 +1,3 @@
 # git-practice
 <<<<<<< HEAD
-stash�iconflict�p�j
+stash練習トラック済み

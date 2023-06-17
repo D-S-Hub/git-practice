@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-conflictで作成
+
+github上で更新

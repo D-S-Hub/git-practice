@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 changed in local hub
 conflict changed again
-changed in github
+changed on conflict remote for conflict
+

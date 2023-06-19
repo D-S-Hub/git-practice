@@ -3,4 +3,5 @@
 changed in local hub
 conflict changed again
 changed on conflict remote for conflict
+changed again in local hub
 

@@ -5,4 +5,4 @@ new-feature branch change
 no-fast-forward
 
 conflict
-git hubにて更新
+conflict remoteにて更新

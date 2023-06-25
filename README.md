@@ -5,4 +5,5 @@ new-feature branch change
 no-fast-forward
 
 conflict
+
 conflict remoteにて更新

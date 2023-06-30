@@ -5,4 +5,4 @@ new-feature branchで変更.<br>
 no-fast-forwardで変更.  
 
 conflict branchで変更.
->>>>>>> conflict
+Github上で更新

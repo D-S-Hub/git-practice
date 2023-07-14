@@ -3,3 +3,4 @@
 ローカルリポで変更
 new-featurwブランチで変更
 GitHub上で更新しましたよ
+GitHubでまた更新しました

@@ -3,4 +3,3 @@
 ローカルリポで変更
 new-featurwブランチで変更
 conflict-branch上で更新しましたよ 
-

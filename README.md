@@ -2,5 +2,5 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
 new-featurwブランチで変更
-GitHub上で更新しましたよ 
-GitHubでまた更新しました
+conflict-branch上で更新しましたよ 
+

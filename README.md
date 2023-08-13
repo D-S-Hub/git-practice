@@ -1,6 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です
-65f4d22bb4b46c6bd29e9ce0ff201ada712a82bd
 更新済み
 new-featureブランチで変更
 no-fast-forwardブランチで変更

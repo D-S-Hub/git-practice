@@ -1,2 +1,7 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+Changed on n-fast-forward branch.
+Changed on conflict branch.
+Updated on Github.
+Updated on conflict-remote branch.
+Updated on my repository.
+

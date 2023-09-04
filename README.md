@@ -1,3 +1,3 @@
 # git-practice
-Changed in the n-fast-forward branch
-Changed on main branch
+Changed in n-fast-forward branch
+Changed in conflict branch

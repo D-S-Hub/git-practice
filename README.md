@@ -1,3 +1,4 @@
 # git-practice
-Changed in n-fast-forward branch
-Changed in conflict branch
+Changed on n-fast-forward branch
+Changed on conflict branch
+Updated on Github

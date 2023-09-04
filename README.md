@@ -1,2 +1,2 @@
 # git-practice
-Changed in the no-fast-forward branch
+Changed in the n-fast-forward branch

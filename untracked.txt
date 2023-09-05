@@ -1,0 +1,1 @@
+Git stash for untracked file

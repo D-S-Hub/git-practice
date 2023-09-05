@@ -4,5 +4,5 @@ Changed on conflict branch.
 Updated on GitHub.
 Updated on rebase-practice branch for rebase conflict.
 Edited README file directly.
-Practice stash.
+Practice stash for tracked files.
 

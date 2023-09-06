@@ -2,3 +2,5 @@
 このリポジトリはGit動画講座用です．
 Changed.  
 new-feature branch
+
+nofastforward

@@ -4,3 +4,4 @@ Changed.
 new-feature branch
 
 nofastforward
+CONFLICT_Edit

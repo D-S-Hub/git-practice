@@ -5,3 +5,4 @@ new-feature branch
 
 nofastforward
 CONFLICT_Edit
+edited at GitHub

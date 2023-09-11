@@ -6,4 +6,5 @@
 ## no-fast-featureでオートマチックマージ確認
 
 ## コンフリクトブランチで変更
-## gitHub上で更新（PULLコンフリクト練習用）
+## gitHub上で更新
+## conflict-remote上で更新（コンフリクト発生）

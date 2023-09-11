@@ -8,3 +8,5 @@
 ## コンフリクトブランチで変更
 ## gitHub上で更新
 ## conflict-remote上で更新（コンフリクト発生）
+
+## 自分のローカルリポで更新（on branch new-feature）

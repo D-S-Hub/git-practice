@@ -3,4 +3,4 @@
 new feature ブランチで変更
 new-feature ブランチで
 no-fast-forwardブランチで変更
-mainブランチで変更（コンフリクト発生）
+conflict ブランチで変更

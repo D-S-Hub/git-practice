@@ -1,3 +1,4 @@
 # git-practice
+このリポジトリはGit動画講座用です
 変更しました
-no-fast-forward branch で変更
+main branch で変更（コンフリクト発生）

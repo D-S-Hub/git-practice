@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-rebase-practice ブランチで更新（rebase用）
+main ブランチで更新（reabase conflict用）

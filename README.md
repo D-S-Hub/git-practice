@@ -5,3 +5,4 @@ rebase-practice
 rebase　pull 用
 
 stash練習用(トラック済み)
+second stash

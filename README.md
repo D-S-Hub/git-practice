@@ -2,4 +2,6 @@
 このリポジトリはGit動画講座用です．
 変更しました。。。
 
-no-fast-forward（mainで発生）
+
+conflict
+>>>>>>> conflict

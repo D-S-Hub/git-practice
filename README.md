@@ -4,4 +4,4 @@
 
 
 conflict
->>>>>>> conflict
+GitHub上で更新

@@ -4,4 +4,4 @@
 
 
 conflict
-GitHub上で更新
+GitHub上で更新 2回目

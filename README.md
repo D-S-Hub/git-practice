@@ -1,4 +1,4 @@
 # git-practice
 new-featureで編集
 このリポジトリはGit動画講座用です．
-conflict
+github上で更新

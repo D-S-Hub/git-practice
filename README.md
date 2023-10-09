@@ -1,2 +1,2 @@
 # git-practice
-rebase-practice updated
+main branch to conflict

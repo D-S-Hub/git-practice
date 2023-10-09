@@ -1,3 +1,3 @@
 # git-practice
 changed on github
-rechanged
+conflict on remote

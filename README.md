@@ -1,2 +1,2 @@
 ﻿# git-practice
-for rebase pull
+practice stash

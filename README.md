@@ -1,2 +1,2 @@
 ﻿# git-practice
-rebase-practice conflict
+for rebase pull

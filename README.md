@@ -3,3 +3,4 @@
 localripo
 conflict branch changed
 >>>>>>> conflict
+github上で更新

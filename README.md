@@ -1,6 +1,7 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-github上で更新する。２回目
+github上で更新する(conflict発生)
+
 
 

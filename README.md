@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 Change in local repository
-new-featureブランチで変更
+no-fast-forwardブランチで変更

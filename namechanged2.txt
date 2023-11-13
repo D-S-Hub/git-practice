@@ -1,1 +1,2 @@
 newfile作成
+git add後

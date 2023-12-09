@@ -3,6 +3,6 @@
 change lovcal repo
 new-feature branch
 git hub上で
-conflict
-mamamata
+conflict-remote conflict hasseei
+
 

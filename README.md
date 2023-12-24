@@ -2,7 +2,8 @@
 このリポジトリはGit動画講座用です。
 branchで変更を試みる
 
+- ローカルリポジトリの操作
 mainブランチ上でReadmeを修正
 コンフリクト変更
-# automatic mergeのテスト
+automatic mergeのテスト
 

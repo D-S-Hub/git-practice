@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です。
-new-feature branchで変更を試みる
-
+branchで変更を試みる
+automatic mergeのテスト

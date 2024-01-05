@@ -3,3 +3,4 @@
 no-fast-forwardで変更したよ
 confilictで変更したよ
 github上でかえたよ
+confilict-remoteだよ

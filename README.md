@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 update new feature
 conflict
-github上で更新
+conflict remote上で更新

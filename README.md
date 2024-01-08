@@ -4,3 +4,4 @@ update new feature
 conflict
 conflict remote上で更新
 up on my repo
+update on rebase br

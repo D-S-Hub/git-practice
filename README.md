@@ -4,4 +4,4 @@ changed
 tyぺお
 no-fast-forward
 conflict
-conflict上で更新
+conflict上で更新2

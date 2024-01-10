@@ -3,4 +3,4 @@
 changed
 tyぺお
 no-fast-forward
-DO-suru
+conflict

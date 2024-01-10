@@ -4,4 +4,4 @@ changed
 tyぺお
 no-fast-forward
 conflict
-git hubで更新
+git hubで更新編集追加

@@ -5,3 +5,4 @@ conflict
 conflict remote上で更新
 up on my repo
 updeate on rebase br for rebase conflict
+updeate on remote for pull rebase

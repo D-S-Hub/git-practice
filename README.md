@@ -7,3 +7,4 @@ up on my repo
 updeate on rebase br for rebase conflict
 updeate on remote for pull rebase
 update on main for stash
+tracked change for stash 

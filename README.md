@@ -1,3 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-updat-local-repo
+update-local-repo
+new-feature-update

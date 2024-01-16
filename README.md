@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更  
 change at conflict branch 
-update on github 2nd times
+update on conflict-remote
+

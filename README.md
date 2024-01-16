@@ -3,3 +3,4 @@
 ローカルリポで変更  
 change at conflict branch 
 update on conflict-remote
+

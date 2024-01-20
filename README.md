@@ -9,5 +9,4 @@ main ブランチで更新
 
 conflict で更新
 
-Github上で更新3回目
-
+Github上で更新3回目（ローカル）追加で修正

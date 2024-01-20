@@ -1,12 +1,4 @@
 # git-practice
-更新したよー
+このリポジトリはGit動画講座用です．
 
-new-featureで更新（競合）
-
-no-fast-forwardで変更した
-
-競合発生するよーw
-
-github上で編集したよー
-
-github上で編集して競合したよ!
+自分のリポジトリで更新しました。

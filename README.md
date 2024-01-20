@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 更新
 new-featureブランチで変更
-no-fast-forward
+mainブランチで更新

@@ -1,5 +1,7 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+
+このリポジトリは Git 動画講座用です．
 更新
-new-featureブランチで変更
-mainブランチで更新
+new-feature ブランチで変更
+main ブランチで更新
+conflict で更新

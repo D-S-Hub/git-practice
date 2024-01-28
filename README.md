@@ -4,4 +4,4 @@
 no-fast-forwardブランチで変更
 conflictブランチで変更
 Github上で変更
-Github上でまた変更してみた
+conflict-remote上で変更

@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更　　
 conflictブランチで変更
-github上で更新編集
+conflict-remote上で更新(coflict発生)
+

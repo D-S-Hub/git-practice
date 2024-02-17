@@ -5,3 +5,5 @@ THIS IS ALL FICTION.
 UPDATED IN NO-FAST-FORWARD
 
 新しく更新しました。conflict-branchです。
+
+GITHUBで更新しました。

@@ -5,3 +5,5 @@ THIS IS ALL FICTION.
 UPDATED IN NO-FAST-FORWARD
 
 新しく更新しました。conflict-branchで変更しています。
+
+プルリク作成用のものです。

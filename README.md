@@ -4,4 +4,4 @@ THIS IS ALL FICTION.
 
 UPDATED IN NO-FAST-FORWARD
 
-新しく更新しました。conflict-branchです。
+新しく更新しました。conflict-branchで変更しています。

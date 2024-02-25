@@ -1,9 +1,7 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-ローカルリポで変更  →完了
-conflictブランチで変更　→完了
-github 上で更新　→完了
-conflict-remote上で更新（conflict発生）　→完了
+<<<<<<< HEAD
+
 自分のリポジトリで更新
 
 
@@ -17,3 +15,10 @@ no-fast-forwardブランチで変更
 
 
 mainbranch上で更新 コンフリクト発生
+=======
+ローカルリポで変更  
+conflictブランチで変更(2024/2/25)
+
+github 上で更新
+conflict-remote上で更新（conflict発生）
+>>>>>>> conflict-remote

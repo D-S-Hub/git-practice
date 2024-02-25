@@ -14,3 +14,6 @@ new-feature branchで変更
 
 
 no-fast-forwardブランチで変更
+
+
+mainbranch上で更新 コンフリクト発生

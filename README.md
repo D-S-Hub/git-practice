@@ -11,3 +11,6 @@ conflict-remote上で更新（conflict発生）　→完了
 ローカルリポで変更
 
 new-feature branchで変更
+
+
+no-fast-forwardブランチで変更

@@ -3,3 +3,4 @@
 modeified
 conflictブランチで変更（コンフリクト発生）
 github上で更新
+git pull conflictの練習

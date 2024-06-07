@@ -1,2 +1,3 @@
 # git-practice
-new-feature1ブランチで変更
+no-fast-forworで変更
+

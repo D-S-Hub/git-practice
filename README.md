@@ -1,7 +1,3 @@
 # git-practice
-conflictで変更
+test1更新
 
-github上で更新
-<<<<<<< HEAD
-
-conflict-remoteで更新

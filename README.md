@@ -1,3 +1,3 @@
 # git-practice
-main ブランチで変更
+conflictで変更
 

@@ -1,3 +1,3 @@
 # git-practice
-no-fast-forworで変更
+main ブランチで変更
 

@@ -2,4 +2,4 @@
 
 このリポジトリは Git 動画講座用です．
 ローカルリポで変更
-Github上で変更2回目
+rebase-practice ブランチで更新（rebase 用）

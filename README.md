@@ -1,2 +1,4 @@
-# git-practice
-このリポジトリはGit動画講座用です．
+MOfmof
+Stashing---
+stash練習トラック済
+2nd stash

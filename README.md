@@ -1,2 +1,3 @@
 # git-practice
-ローカルリポで変更
+ローカルリポで変更  
+new-featureブランチで変更

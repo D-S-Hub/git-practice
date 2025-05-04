@@ -1,1 +1,1 @@
-no-fast
+MAIN

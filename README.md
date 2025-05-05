@@ -1,2 +1,1 @@
-# git-practice
-このリポジトリはGit動画講座用です．
+12:38 @local.newFeature

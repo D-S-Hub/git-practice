@@ -1,0 +1,2 @@
+#.gitignoreはgitの管理対象外を指定するファイル。
+output.log

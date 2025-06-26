@@ -1,6 +1,6 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-bbb no-fast-forwardで変更
+GitHubから直接編集しちゃいました🎵
 
 
 

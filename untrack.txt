@@ -1,0 +1,1 @@
+untrack確認→stashでstashされない

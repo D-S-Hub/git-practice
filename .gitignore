@@ -1,0 +1,8 @@
+ignore_file.txt
+
+# Desktop Organizer generated files
+organizer_log.txt
+整理済み/
+
+# System files
+.DS_Store

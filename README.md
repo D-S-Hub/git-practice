@@ -1,2 +1,2 @@
-# Git Practice
-Gitの勉強中です。
+# git-practice
+このリポジトリはGit動画講座用です．

@@ -1,3 +1,3 @@
-# sample-repo
+# git-practice
+このリポジトリはGit動画講座用です．
 
-リモートリポ更新
